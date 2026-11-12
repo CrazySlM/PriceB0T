@@ -1,0 +1,366 @@
+{
+  "exportedAt": "2026-11-12T13:45:25.4210385Z",
+  "totalActiveMods": 60,
+  "mods": [
+    {
+      "author": "Captolamia",
+      "name": "[CAP] RICS Personal Storage",
+      "steamId": "3790491147",
+      "version": "1.0.0"
+    },
+    {
+      "author": "Captolamia",
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
+      "version": "1.54.0"
+    },
+    {
+      "author": "AlexDrake",
+      "name": "[CAP] Rimworld Interactive Chat Service - RU (РУ перевод)",
+      "steamId": "3666703929",
+      "version": null
+    },
+    {
+      "author": "Robert Shepard",
+      "name": "[RUS] Quality And Durability (Continued)",
+      "steamId": "3665011405",
+      "version": null
+    },
+    {
+      "author": "Vengie0",
+      "name": "Achtung! Expanded",
+      "steamId": "3828714435",
+      "version": "4.1.22"
+    },
+    {
+      "author": "vin",
+      "name": "Adaptive Simple Storage",
+      "steamId": "3297307747",
+      "version": null
+    },
+    {
+      "author": "Micharduio",
+      "name": "Adaptive Simple Storage  [RUS] [РУС]",
+      "steamId": "3513828261",
+      "version": null
+    },
+    {
+      "author": "Soul, Phaneron, Bradson",
+      "name": "Adaptive Storage Framework",
+      "steamId": "3033901359",
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Anomaly",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Snues",
+      "name": "Auto Arm",
+      "steamId": "3516409503",
+      "version": "0.7.0"
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Biotech",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Andreas Pardeike",
+      "name": "Camera+",
+      "steamId": "867467808",
+      "version": "3.4.9.0"
+    },
+    {
+      "author": "CrashM",
+      "name": "CM Color Coded Mood Bar [1.1+]",
+      "steamId": "2006605356",
+      "version": null
+    },
+    {
+      "author": "ilyvion,  Fluffy",
+      "name": "Colony Manager Redux",
+      "steamId": "3310027356",
+      "version": "0.24.1"
+    },
+    {
+      "author": "LavaExcess",
+      "name": "Colony Manager Redux_Rus",
+      "steamId": "3452388924",
+      "version": "1.2"
+    },
+    {
+      "author": "Dmitry6",
+      "name": "Color Coded Mood Bar - Russian",
+      "steamId": "3660315474",
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Core",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "merthsoft",
+      "name": "Designator Shapes",
+      "steamId": "1235181370",
+      "version": null
+    },
+    {
+      "author": "telardo",
+      "name": "DragSelect",
+      "steamId": "2599942235",
+      "version": "1.7.0.1"
+    },
+    {
+      "author": "Dubwise",
+      "name": "Dubs Mint Menus",
+      "steamId": "1446523594",
+      "version": "1.3.1704"
+    },
+    {
+      "author": "Slime-Senpai",
+      "name": "EndlessGrowth",
+      "steamId": "2894401734",
+      "version": null
+    },
+    {
+      "author": "Kamikadza13",
+      "name": "EndlessGrowth rus",
+      "steamId": "2894613990",
+      "version": null
+    },
+    {
+      "author": "Andreas Pardeike",
+      "name": "Harmony",
+      "steamId": "2009463077",
+      "version": "3.0.1.0"
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Ideology",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "ilyvion",
+      "name": "ilyvion's Laboratory",
+      "steamId": "3296362231",
+      "version": "0.28.0"
+    },
+    {
+      "author": "keyz182",
+      "name": "Keyz' Allow Utilities",
+      "steamId": "3524716849",
+      "version": "1.8.0"
+    },
+    {
+      "author": "LordKuper",
+      "name": "LordKuper.Common",
+      "steamId": "3531352422",
+      "version": null
+    },
+    {
+      "author": "Epicguru",
+      "name": "Melee Animation",
+      "steamId": "2944488802",
+      "version": null
+    },
+    {
+      "author": "0smadeu5",
+      "name": "Melee Animation - Русский перевод",
+      "steamId": "3534986499",
+      "version": null
+    },
+    {
+      "author": "WexMan",
+      "name": "Mines",
+      "steamId": "1545681321",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Bill Tab",
+      "steamId": "3520130671",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Inventory Tab",
+      "steamId": "3609897594",
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Odyssey",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "lioness131.smallmine",
+      "name": "Orca Shuttle",
+      "steamId": "3528001139",
+      "version": null
+    },
+    {
+      "author": "Nanamy",
+      "name": "Orca Shuttle (Ru translation)",
+      "steamId": "3536003251",
+      "version": null
+    },
+    {
+      "author": "Zzyxzz",
+      "name": "Pick Up and Haul - Continued",
+      "steamId": "3829549663",
+      "version": "0.5.0"
+    },
+    {
+      "author": "Amnabi",
+      "name": "Quality And Durability (Continued)",
+      "steamId": "2572086023",
+      "version": "1.7.0"
+    },
+    {
+      "author": "DawnsGlow",
+      "name": "Quality Colors (Continued)",
+      "steamId": "3513846773",
+      "version": null
+    },
+    {
+      "author": "mastertea",
+      "name": "RandomPlus",
+      "steamId": "1434137894",
+      "version": null
+    },
+    {
+      "author": "timur4el",
+      "name": "RandomPlus - UA, Ru",
+      "steamId": "3310983411",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Replace Stuff - Continued",
+      "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "pashka",
+      "name": "Replace Stuff Russian Language",
+      "steamId": "2781928581",
+      "version": null
+    },
+    {
+      "author": "Font",
+      "name": "Rimesis",
+      "steamId": "3767949538",
+      "version": null
+    },
+    {
+      "author": "Русская локализация",
+      "name": "Rimesis — Русский перевод",
+      "steamId": "3780313608",
+      "version": null
+    },
+    {
+      "author": "Jaxe",
+      "name": "RimHUD",
+      "steamId": "1508850027",
+      "version": null
+    },
+    {
+      "author": "Nevelian",
+      "name": "RimHUD zh th jp pl pr ru",
+      "steamId": "2645815945",
+      "version": null
+    },
+    {
+      "author": "kanboru",
+      "name": "Rimworld Interactive Chat Service - Addon",
+      "steamId": "3760183125",
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Royalty",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "VSK",
+      "name": "Russian Language For Simple Sidearms",
+      "steamId": "2569415818",
+      "version": null
+    },
+    {
+      "author": "VSK",
+      "name": "Russian Language For Utility Columns",
+      "steamId": "2574830992",
+      "version": null
+    },
+    {
+      "author": "VoidCreeper",
+      "name": "Save Storyteller Settings",
+      "steamId": "3744418945",
+      "version": null
+    },
+    {
+      "author": "Roolo; Dreadarm (independent maintainer)",
+      "name": "Search and Destroy - Reworked",
+      "steamId": "3812804328",
+      "version": "1.6.8"
+    },
+    {
+      "author": "PeteTimesSix",
+      "name": "Simple sidearms",
+      "steamId": "927155256",
+      "version": null
+    },
+    {
+      "author": "Sarg",
+      "name": "Smart Speed",
+      "steamId": "1504723424",
+      "version": null
+    },
+    {
+      "author": "Nephlite,  Maxim,  Viceroy",
+      "name": "Utility Columns",
+      "steamId": "2013476665",
+      "version": null
+    },
+    {
+      "author": "vin",
+      "name": "Warehouse Storage",
+      "steamId": "3519963835",
+      "version": null
+    },
+    {
+      "author": "Darv1n",
+      "name": "Warehouse Storage Russian",
+      "steamId": "3754815184",
+      "version": null
+    },
+    {
+      "author": "Ffisher",
+      "name": "Wild Plants Give Hay",
+      "steamId": "3509291324",
+      "version": null
+    },
+    {
+      "author": "LordKuper",
+      "name": "Work Manager",
+      "steamId": "2029596262",
+      "version": null
+    },
+    {
+      "author": "SeoHyeon",
+      "name": "Yet Another Research Tree (YART)",
+      "steamId": "3745434121",
+      "version": null
+    }
+  ]
+}
